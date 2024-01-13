@@ -1,0 +1,74 @@
+{
+    "TEST": {
+        "TEXT": "Hello World"
+    },
+    "NAV": {
+        "NAV_1": "Programs",
+        "NAV_2": "Instituts",
+        "NAV_3": "Educational institues",
+        "NAV_4": "Library"
+    },
+    "FOOTER": {
+        "NAV_ITEMS": {
+            "ITEM_1": "Programs",
+            "ITEM_2": "Instituts",
+            "ITEM_3": "Educational institues",
+            "ITEM_4": "Library"
+        },
+        "COPYRIGHT": "Copyright © Integratīvā skola, 2023 "
+    },
+    "HOMEPAGE": {
+        "METADATA": {
+            "TITLE": "Galvenā lapa"
+        },
+        "TITLE": {
+            "ONE":"KATRS CILVĒKS SATUR UNIKALITĀTI,",
+            "TWO":"KAS IR ĀRKĀRTĪGI SVARĪGA!"
+        },
+        "SECTION_1": {
+            "HEADING": "Integratīvās pieejas izglītībā misija ir",
+            "SUBHEADING": "Veidot vidi izglītībai un ģimenei, kura ir cilvēka sirdi, vērtības un radošumu formējoša skola"
+        },
+        "SECTION_2": {
+            "HEADING": "Integratīvā pieeja realizē sekojošas vērtības izglītībā un audzināšanā:",
+            "LIST_TITLE": "Tiek formēts cilvēks, kurš -",
+            "LIST_ITEMS": {
+                "ITEM_1": "Spēj radīt un radoši risināt ikdienas situācijas,",
+                "ITEM_2": "Apzinās vērtības un savas dzīves jēgu,",
+                "ITEM_3": "Attīsta savu unikālo, iekšējā filozofiju un attieksmi,",
+                "ITEM_4": "Apzinās savas personības stiprās un vājās puses. Tic, ka izmaiņas ir iespējamas, tikai tas prasa piepūli,",
+                "ITEM_5": "Ir ar attīstītu sociālo meistarību,",
+                "ITEM_6": "Ir ar spēcīgu garu un stingru raksturu",
+                "ITEM_7": "Kļūst veselāks, jo pieeja stiprina identitāti un veselību."
+            }
+        },
+        "SECTION_3": {
+            "TEXT_1": "Mūsu vīzija ir - veidot starptautisku izglības centru, kas sniedz iespēju Integratīvajai pieejai attīstīties kā sadarbības tīklam dažādās valstīskopīgi īstenojot Integratīvu, cilvēka resursus cienošu izglītības modeli",
+            "TEXT_2": "Šo inovatīvo izglītības modeli zinātniski pamatot, izstrādājot kā praktisku, metodoloģisku rokasgrāmatu – programmu un eksperimentāli pārbaudīt šī modeļa efektivitāti multikulturālā kontekstā.",
+            "TEXT_3": "Šobrīd šī pieeja attīstās latvijā, Ukrainā, Polijā, Lietuvā, Spānijā, Rumānijā."
+        },
+        "SECTION_4": {
+            "HEADING": "Galvenie “Integratīvās pieejas” misijas Uzdevumi",
+            "SUBHEADING": "Izstrādāt audzināšanas un mācīšanas metodoloģiju, kura speciālistu sadarbības rezultātā, tiek izveidota kā dažādu intelekta stratēģiju attīstošs spēļu komplekss, tā īstenojot mūsdienīgu, kvalitatīvu, transformējošu pieeju, kura",
+            "LIST_ITEMS": {
+                "ITEM_1": "Attīsta garīgo intelektu, balstoties kristīgās vērtībās,",
+                "ITEM_2": "Atraisa bērna radošo potenciālu,",
+                "ITEM_3": "Stiprina identitātes apzināšanos un personību, palīdzot bērnam apzināties savus resursus un talantus,",
+                "ITEM_4": "Palīdz attīstīt ne tikai racionālo, bet arī intuitīvo gudrību,",
+                "ITEM_5": "Vienlaicīgi un Līdzsvaroti attīsta visas cilvēka intelektuālās domāšanas stratēģijas - loģisko, emocionālo, garīgo, kustību, muzikālo, literāro un matemātisko."
+            }
+        }
+    },
+    "PROGRAMS": {
+        "TEXT": "Programs"
+    },
+    "INSTITUES": {
+        "TEXT": "Institutes"
+    },
+    "EDUCATIONAL_INSTITUTES": {
+        "TEXT": "Educational Institutes"
+    },
+    "LIBRARY": {
+        "TEXT": "Library"
+    }
+}

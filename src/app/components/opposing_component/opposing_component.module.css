@@ -1,0 +1,24 @@
+.even {
+    text-align: left;
+    align-self: flex-start;
+}
+
+.odd {
+    text-align: right;
+    align-self: flex-end;
+}
+
+.text {
+    max-width: 40vw;
+}
+
+.text:not(:last-child) {
+    margin-bottom: 5rem;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

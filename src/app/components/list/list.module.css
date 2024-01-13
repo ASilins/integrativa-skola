@@ -1,0 +1,8 @@
+.list {
+    max-width: 35vw;
+    margin: 0 3.5rem;
+}
+
+.listItem:not(:last-child) {
+    margin-bottom: 0.8rem;
+}

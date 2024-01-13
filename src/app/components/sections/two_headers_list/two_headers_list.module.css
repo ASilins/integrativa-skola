@@ -1,0 +1,21 @@
+.container {
+    padding: var(--container);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.heading {
+    max-width: 35rem;
+    align-self: baseline;
+    margin-bottom: 5.8rem;
+}
+
+.subheading {
+    max-width: 50rem;
+}
+
+.list {
+    margin-top: 5.25rem;
+}

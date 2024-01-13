@@ -1,0 +1,14 @@
+.button {
+    display: inline-block;
+    padding: 0.5rem 2.2rem;
+    border-radius: var(--border-radius-small);
+    color: var(--text-colour-2);
+}
+
+.primary {
+    background-color: var(--primary-colour);
+}
+
+.secondary {
+    background-color: var(--contrast-colour);
+}

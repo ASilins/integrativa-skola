@@ -1,0 +1,6 @@
+.card {
+    background-color: var(--secondary-colour);
+    display: inline-block;
+    padding: 1.5rem;
+    border-radius: 1rem;
+}

@@ -1,0 +1,7 @@
+.hero {
+    width: 100%;
+    height: calc(100vh - 5.5rem);
+    padding: var(--container);
+    display: flex;
+    flex-direction: column-reverse;
+}

@@ -1,0 +1,17 @@
+.nav {
+    background-color: var(--secondary-colour);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 5.5rem;
+    width: 100%;
+    padding: 0 7.7rem;
+    position: fixed;
+}
+
+.navItems {
+    display: flex;
+    flex-direction: row;
+    gap: 5.75rem;
+}

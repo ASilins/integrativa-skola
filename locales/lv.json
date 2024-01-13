@@ -1,0 +1,245 @@
+{
+    "NAV": {
+        "NAV_1": "Programmas",
+        "NAV_2": "Institūts",
+        "NAV_3": "Izglītības iestādes",
+        "NAV_4": "Bibliotēka"
+    },
+    "FOOTER": {
+        "NAV_ITEMS": {
+            "ITEM_1": "Programmas",
+            "ITEM_2": "Institūts",
+            "ITEM_3": "Izglītības iestādes",
+            "ITEM_4": "Bibliotēka"
+        },
+        "COPYRIGHT": "Copyright © Integratīvā skola, 2023 "
+    },
+    "HOMEPAGE_METADATA": {
+        "TITLE": "Galvenā lapa"
+    },
+    "HOMEPAGE": {
+        "TITLE": {
+            "ONE":"KATRS CILVĒKS SATUR UNIKALITĀTI,",
+            "TWO":"KAS IR ĀRKĀRTĪGI SVARĪGA!"
+        },
+        "SECTION_1": {
+            "HEADING": "Integratīvās pieejas izglītībā misija ir",
+            "SUBHEADING": "Veidot vidi izglītībai un ģimenei, kura ir cilvēka sirdi, vērtības un radošumu formējoša skola"
+        },
+        "SECTION_2": {
+            "HEADING": "Integratīvā pieeja realizē sekojošas vērtības izglītībā un audzināšanā:",
+            "LIST_TITLE": "Tiek formēts cilvēks, kurš -",
+            "LIST_ITEMS": {
+                "ITEM_1": "Spēj radīt un radoši risināt ikdienas situācijas,",
+                "ITEM_2": "Apzinās vērtības un savas dzīves jēgu,",
+                "ITEM_3": "Attīsta savu unikālo, iekšējā filozofiju un attieksmi,",
+                "ITEM_4": "Apzinās savas personības stiprās un vājās puses. Tic, ka izmaiņas ir iespējamas, tikai tas prasa piepūli,",
+                "ITEM_5": "Ir ar attīstītu sociālo meistarību,",
+                "ITEM_6": "Ir ar spēcīgu garu un stingru raksturu",
+                "ITEM_7": "Kļūst veselāks, jo pieeja stiprina identitāti un veselību."
+            }
+        },
+        "SECTION_3": {
+            "TEXT_1": "Mūsu vīzija ir - veidot starptautisku izglības centru, kas sniedz iespēju Integratīvajai pieejai attīstīties kā sadarbības tīklam dažādās valstīskopīgi īstenojot Integratīvu, cilvēka resursus cienošu izglītības modeli",
+            "TEXT_2": "Šo inovatīvo izglītības modeli zinātniski pamatot, izstrādājot kā praktisku, metodoloģisku rokasgrāmatu – programmu un eksperimentāli pārbaudīt šī modeļa efektivitāti multikulturālā kontekstā.",
+            "TEXT_3": "Šobrīd šī pieeja attīstās latvijā, Ukrainā, Polijā, Lietuvā, Spānijā, Rumānijā."
+        },
+        "SECTION_4": {
+            "HEADING": "Galvenie “Integratīvās pieejas” misijas Uzdevumi",
+            "SUBHEADING": "Izstrādāt audzināšanas un mācīšanas metodoloģiju, kura speciālistu sadarbības rezultātā, tiek izveidota kā dažādu intelekta stratēģiju attīstošs spēļu komplekss, tā īstenojot mūsdienīgu, kvalitatīvu, transformējošu pieeju, kura",
+            "LIST_ITEMS": {
+                "ITEM_1": "Attīsta garīgo intelektu, balstoties kristīgās vērtībās,",
+                "ITEM_2": "Atraisa bērna radošo potenciālu,",
+                "ITEM_3": "Stiprina identitātes apzināšanos un personību, palīdzot bērnam apzināties savus resursus un talantus,",
+                "ITEM_4": "Palīdz attīstīt ne tikai racionālo, bet arī intuitīvo gudrību,",
+                "ITEM_5": "Vienlaicīgi un Līdzsvaroti attīsta visas cilvēka intelektuālās domāšanas stratēģijas - loģisko, emocionālo, garīgo, kustību, muzikālo, literāro un matemātisko."
+            }
+        }
+    },
+    "PROGRAMS_METADATA": {
+        "TITLE": "Programmas"
+    },
+    "PROGRAMS": {
+        "SECTION_1": {
+            "HEADING": "SIA Integratīvā skola, sadarbojoties ar Daugavpils Universitāti un citām valstīm – Poliju, Ukrainu, Lietuvu, Igauniju, Spāniju, Rumāniju – īstenojam",
+            "SUBHEADING": "Holistiska un visaptveroša izglītības modeļa izstrādi, ceļot bērnu Garīgo Intelektu - attīstot radošo potenciālu, vairojot ticību sev, savam iekšējam potenciālam, attīstot sociālo meistarību - tādējādi formējot nākotnes līderus, kas apzinās dzīves jēgu un veicina transformējošas sabiedrības veidošanos"
+        },
+        "SECTION_2": {
+            "HEADING": "Tiek izstrādāts inovatīvs, holistisks, un visaptverošs izglītības modelis, kura galvenais mērķis ir attīstot bērnu GI dažādas spējas, kas savukārt iekļauj arī emocionālās komponentes attīstīšanu - integrēti un līdzsvaroti attīstīt gan matemātisko domāšanu, gan literārās spējas, gan attīstīt bērnu kreativitāti, gan kustību intelektu, gan iekļaujošā, holistiskā veidā stiprināt bērnu imunitāti, ceļot bērna labjūtību mācību procesā.",
+            "SUBHEADING": "Jaunizstrādātā izglītības modeļa būtisks uzdevums ir formēt bērnu pašapziņu, identitātes apzināšanos, celt personības resursu apzināšanos, attīstīt sociālo meistarību un veicināt līdera kvalitāšu attīstību, bērna vecumam atbilstošā veidā. Balstoties uz praktisku pieredzi varam novērot, ka šāda holistiska un visaptveroša pieeja ceļ bērnu mācību motivāciju un stiprina bērnu veselību.",
+            "BODY": "Izglītības modelis ir izstrādāts, par pamatu ņemot 9 tematiskus moduļus, katra īstenošanai paredzot - 4 mācību nedēļas. Katram mācību modulim ir paredzēta sava tematika, kura attīsta bērna Garīgo Intelektu un dotās tematikas ietvaros tiek integrēta dažāda veida bērnu intelektuālo spēju attīstoša mācību programma. Spēju attīstīšanas metodoloģija tiek izstrādāta kā radošu spēļu un treniņ vingrinājumu komplekss katram mācību priekšmetam. Tematiskie moduļi paliek nemainīgi katru mācību gadu, tie atkārtojas no mācību gadu uz mācību gadu - tā vairojot bērna drošību, ļaujot dziļi un izjusti bērnam piedzīvot mācību procesu, veicot audzināšanas funkciju un ienesot mācību programmā arī dziedinošu un terapeitisku iedarbību uz bērnu personību. Mainīsies mācību saturs, kas integrēts modulī un izstrādāts atbilstoši katram bērna vecumposmam. Mācību moduļu tematika nodrošina visaptverošu bērna garīgā un emocionālā intelekta attīstību, kurā savukārt vienoti ar tematisko materiālu ir integrēta pārējo intelekta spēju attīstība."
+        },
+        "SECTION_3": {
+            "HEADING": "Visus mācību moduļus un tajos izstrādātos mācību vingrinājumus, metodes, mācību vielu paredzēts digitalizēt, tā nodrošinot pieejamību šai programmai jebkurā pasaules valstī."
+        },
+        "SECTION_4": {
+            "HEADING": "Dotā izglītības programma tiek īstenota izglītošanas un audzināšanas procesā, sadarbības partneru izveidotās iestādēs",
+            "SUBHEADING": "Vispārējās izglītības programma ir izstrādāta ar mērķi realizēt praksē, mūsdienu izglītības un psiholoģijas zinātnē balstītus ieteikumus postmodernas, personību transformējošas, 21.gadsimtam atbilstošas izglītības īstenošanai bērniem, pamatskolas vecumā. Mācību programma ir izstrādāta saskaņā ar valsts izglītības programmas skola 2030 vadlīnijām un ir uzskatāma kā šai programmai papildinošs materiāls.",
+            "LIST_TITLE": "Programma ietver sekojošas vērtības:",
+            "LIST_ITEMS": {
+                "ITEM_1": "Integratīvs, visaptverošs mācīšanās dizains,",
+                "ITEM_2": "Mācīšanās process ir piepildīts ar attīstošām spēlēm,",
+                "ITEM_3": "Mācību procesā ietvertas digitālo kompetenču attīstīšana, kas savienota ar projektos balstītu izglītību,",
+                "ITEM_4": "Kristīgo vērtību izpratnē balstīta izglītība, kura mērķtiecīgi attīsta cilvēka Garīgo Intelektu,",
+                "ITEM_5": "Mācīšanās process līdzsvaroti attīsta visu cilvēka intelektu – racionālo, emocionālo, garīgo, kustību, mūzikālo, literāro, matemātisko,",
+                "ITEM_6": "Mācīšanās process attīsta cilvēka spēju radīt un risināt dažādus dzīves jautājumus radošā veidā,",
+                "ITEM_7": "Mācību process un dzīve skolā iekļauj sociālās meistarības treniņu ik dienas,",
+                "ITEM_8": "Skola nodrošina ģimenisku, kristīgas kopienas dzīves pieredzi, kas ir droša, mīlestības piepildīta platforma cilvēka attīstībai"
+            }
+        },
+        "SECTION_5": {
+            "HEADING": "Pateicoties projekta ietvaros izstrādātajām mācību un veselības programmām, kuras paredzēts digitalizēt – programma vecākiem, programma skolotājiem, ieteicamā veselīgas ēdināšanas programma, mācību programma kā metodoloģiskā spēļu rokasgrāmata - iespējams kompleksi risināt veselību vairojošus bērnu audzināšanas un mācīšanas jautājumus dažādās dzīves mainīgajās situācijās, saglabājot veselu bērna personību, vairojot bērna labjūtību, sirds gudrību, radošumu, kas savukārt veido vidi, kura samazina digitālās atkarības risku.",
+            "LIST_TITLE": "Katrs tematiskais modulis tiek realizēts, īstenojot daudzlīmeņa attīstību:",
+            "LIST_ITEMS": {
+                "ITEM_1": "Brīvi radošās būvēšanas nodarbībās tiek izdzīvota brīvās radīšanas tēma, kas sasiastīta ar moduļa tematiku,",
+                "ITEM_2": "Mēneša svētku notikums – mūzikāla, mākslinieciska, bērnu radīta improvizācija - kā praktiska un iedvesmojoša mācīšanās,",
+                "ITEM_3": "Vingrinājumi un sarunas Garīgā Intelekta attīstīšanai,",
+                "ITEM_4": "Vingrinājumi un sarunas emocionālā intelekta attīstīšanai,",
+                "ITEM_5": "Skolotāju pavadībā, bērni izstrādā literāri radošo darbu – sacer stāstus, dzejo dzejoļus, rada haikas, poēmas, u.c.",
+                "ITEM_6": "Stāsti, ko skolotājs lasa, stāsta atbilst mēneša tēmai,",
+                "ITEM_7": "Literatūra, ko bērni lasa, ir doto tēmu papildinoša, izzinoša,",
+                "ITEM_8": "Skolēni īsteno pētījumu – projektu par tēmu, to prezentē citiem,",
+                "ITEM_9": "Tēmas eksaktās domāšanas attīstībai tiek integrētas mēneša tēmā, tā organizējot visaptverošu un viengabalainu mācīšanos,",
+                "ITEM_10": "Mācību viela tiek sadalīta priekšmetu ciklos un bērni iedziļinās tajos mācību priekšmetos, kas ir sasaistīti ar mēneša tematiku, tā mācību vielu izzinot dziļāk, vienotāk un jēgpilnāk",
+                "ITEM_11": "Mākslas, drāmas un kustību sevis izzinoši vingrinājumi, kas izvēlēti atbilstoši mācību procesam un tiek integrēti mācību procesā.,",
+                "ITEM_12": "Dzejoļi, citāti tiek apgūti no galvas, rīta integratīvajā stundā, kā arī svešvalodu vingrinājumi, dziesmas, u.c. ir atbilstošas tematikai un tiek apgūtas šajā stundā."
+            },
+            "INFO": "Katrs iepriekš nosauktais punkts, programmas ietvaros ir izstrādāts ar vingrinājumiem, metodēm, uzdevumiem, kas mācību procesu bērniem padara aizraujošu, iedvesmojošu un radošu."
+        },
+        "SECTION_6": {
+            "HEADING": "Pilna izstrādātās programmas versija ir pieejama tām izglītības iestādēm, kuras ir Integratīvās pieejas izglītībā sadarbības partneri un līdz ar to programmu īsteno savā profesionālajā darbībā."
+        },
+        "SECTION_7": {
+            "HEADING": "Metodes, kas tiek īstenotas, lai sasniegtu augstāk aprakstītos izglītības uzdevumus",
+            "TABLE_TITLE": "Pedagoģijas modelis kas ir pamats metožu izstrādei (Grasmane, 2022)",
+            "TABLE": {
+                "test": "test"
+            },
+            "INFO": "Attīstot pedagoģiskas metodes, kuras ir izrietošas no šī modeļa, varam uzskatīt, ka tiek īstenota pedagoģija, kas ir transformējoša un attīsta līdzsvaroti visu cilvēku kopumā."
+        },
+        "SECTION_8": {
+            "HEADING": "Pedagoģiskajā darbā izmantojamo metožu daži piemēri:"
+        },
+        "SECTION_9": {
+            "HEADING": "Tā dzīvo Integratīvās Pieejas kopienās:"
+        },
+        "SECTION_10": {
+            "HEADING": "Profesionālās pilnveides programmas, kas dod tiesības īstenot iepriekš aprakstīto metodoloģiju, īsteno starptautisks institūts.",
+            "BUTTON": "Institūti"
+        }
+    },
+    "INSTITUES": {
+        "METADATA": {
+            "TITLE": "Galvenā lapa"
+        },
+        "HEADING": "Starptautisks Integratīvs Institūts",
+        "BUTTONS": {
+            "ONE": "one",
+            "TWO": "two",
+            "THREE": "three"
+        },
+        "BODY_1": {
+            "SECTION_1": {
+                "HEADING": "Institūts īsteno pedagogu tālākizglītības programmas, kas sagatavo pedagogus darbam ar Integratīvās pieejas izstrādāto metodoloģiju, kā arī izsniedz sertifikātus, kuri dod tiesības īstenot integratīvās pieejas izstrādātās programmas profesionālajā darbībā.",
+                "SUBHEADING": "Programmas misija:",
+                "BODY": "Attīstīt Integratīvo pieeju izglītībā kā starptautisku izglītības virzienu"
+            },
+            "SECTION_2": {
+                "HEADING": "Integratīvais pedagogs tiek formēts tā, lai audzināšanas un mācīšanas procesā spētu īstenot sekojošas vērtības:",
+                "LIST_ITEMS": {
+                    "ITEM_1": "Integratīvs, visaptverošs mācīšanās dizains,",
+                    "ITEM_2": "Mācīšanās process ir piepildīts ar attīstošām spēlēm,",
+                    "ITEM_3": "Mācību procesā ietvertas digitālo kompetenču attīstīšana, kas savienota ar projektos balstītu izglītību,",
+                    "ITEM_4": "Spēj īstenot izglītību, kas balstās kristīgo vērtību izpratnē,kura mērķtiecīgi attīsta cilvēka Garīgo Intelektu,",
+                    "ITEM_5": "Spēj īstenot mācību procesu, kurš līdzsvaroti attīsta visu cilvēka intelektu – gan racionālo, gan emocionālo, gan garīgo, gan kustību, gan muzikālo, gan literāro, gan matemātisko",
+                    "ITEM_6": "Spēj īstenot mācīšanās procesu, kas attīsta cilvēka spēju radīt un risināt dažādus dzīves jautājumus radošā veidā,",
+                    "ITEM_7": "Spēj īstenot mācību procesu tā, lai ikdienas dzīve skolā iekļauj bērnu sociālās meistarības treniņu,",
+                    "ITEM_8": "Spēj īstenot mācību procesu, kurš integrē terapeitiskas un personību stiprinošas metodes."
+                }
+            },
+            "SECTION_3_1": {
+                "HEADING": "Pedagogu tālākizglītība tiek īstenota 2 līmeņos:",
+                "BUTTONS": {
+                    "LEVEL_1": "I Līmenis",
+                    "LEVEL_2": "II Līmenis",
+                    "ACTION": "Pieteikties"
+                },
+                "SUBHEADING": "Ievads Integratīvajā pedagoģijā",
+                "BODY": "Programma tiek īstenota kā 10 nodarbību cikls, kurā tiek apskatītas būtiskākās tēmas Integratīvajā pieejā"
+            },
+            "SECTION_3_2": {
+                "HEADING": "Pedagogu tālākizglītība tiek īstenota 2 līmeņos:",
+                "BUTTONS": {
+                    "LEVEL_1": "I Līmenis",
+                    "LEVEL_2": "II Līmenis",
+                    "ACTION": "Pieteikties"
+                },
+                "SUBHEADING": "Starptautiska profesionālās pilnveides tālākās izglītības programma Intezgratīvajā pieejā – pedagogiem, kura dod tiesības skolotājam savā profesionālajā darbā izmantot Integratīvās pieejas izstrādātās metodoloģijas",
+                "BODY": "Apmācības norisinās 9 mēnešu garumā, katru mēnesi apgūstot katra Integratīvās pedagoģijas moduļa tematiku un metodoloģiju. Programmas ietvaros studenti tiek formēti pedagoģiskajā procesā integrēt dažādas terapeitiskas metodes – mākslu saturošas, kustību saturošas, drāmas, metodes ar dziedinošu iedarbību uz bērniem.",
+                "LEARNING": {
+                    "TITLE": "Apmācību forma:",
+                    "BODY": " teorētiskais materiāls – patstāvīga, izmantojot digitālos materiālus,"
+                },
+                "FORMS": {
+                    "TITLE": "Praktiskā:",
+                    "BODY": " tiekoties 3 reizes gadā, kādā no dalībvalstīm uz klātienes treniņ – sesiju."
+                }
+            }
+        },
+        "BODY_2": {
+            "SECTION_1": {
+                "HEADING": "Video programma ģimenes veselības stiprināšanai",
+                "BODY": "Onlaina video programma - 4 tematiski moduļi, katrs iekļauj 5 mācību filmas"
+            },
+            "SECTION_2": {
+                "HEADING": "Onlain programmas galvenās vērtības:",
+                "LIST_ITEMS": {
+                    "ITEM_1": "Praktiski pielietojama ikvienam – vienkāršā valodā formulēta, praktiski ikvienam cilvēkam pielietojama, dziedinoša un personību stiprinoša, kā arī atjaunojoša metodoloģiska sistēma onlainā. Programmu paredzēts tulkot ukraiņu valodā un ievietot to internetā, tā - lai tai būtu aizsargāta no ļaunprātīgas bojāšanas un tai būtu iespējams piekļūt lielam Ukrainas iedzīvotāju skaitam visa pasaulē.",
+                    "ITEM_2": "Programma ir terapeitiska, dziedinoša bērniem un ģimenes sistēmai kopumā – programmā iekļautās metodes attīsta bērnu emocionalitāti, ir dziedinošas un stiprinošas bērna personībai. Metodes palīdz apzināties personības resursus, tos pielietot bērna un ģimenes dzīvē, kas savukārt sniedz jaunus spēkus un resursus pārvarēt traumatisku pieredzi.",
+                    "ITEM_3": "Garīgumu un vērtību attīstoša – programmas metodoloģijas pamats balstās kristīgās vērtībās, kas ukraiņu tautai šajā laikā ir īpaši aktuālas. Metodes stiprina bērna un visas ģimenes garīgumu, palīdz apgūt un savā praktiskajā dzīvē integrēt metodes, kas attīsta bērna un ģimenes spēju runāt par vērtībām, dzīves jēgu, ciešanu nozīmi un to transformēšanas ceļu, kā arī palīdz apgūt metodes, kuras bērniem un ģimenei kopumā palīdz apzināties radošo potenciālu sevī, talantus, spējas, tā veidojot savu vienreizējo iekšējo filozofiju gan tautas, gan sava personiskā dzīves stāsta kontekstā.",
+                    "ITEM_4": "Attīsta iekšēju brīvību un spēju domāt kā uzvarētājam, neskatoties uz ārējiem apstākļiem. Programmas ietvaros tiek atjaunots bērna un bērnam līdzās stāvošo cilvēku optimisms, ticība sev, pozitīvs skatījums, neskatoties uz ārējiem notikumiem, tiek formēta uzvarētāja domāšanas stratēģija, tiek attīstīta savas dzīves jēgas apzināšanās - personiskā, unikālā dzīves stāsta kontekstā, neskatoties uz ārējiem notikumiem."
+                }
+            },
+            "SECTION_3": {
+                "HEADING": "Programma iekļauj 4 tēmas:",
+                "LIST_ITEMS": {
+                    "ITEM_1": "Emocionālas sarunas veidošana ģimenē vai komunikācijā ar bērniem, emocionalitātes atraisīšanai, dziedināšanai un stiprināšanai,",
+                    "ITEM_2": "Radošā potenciāla atraisīšana un sāpīgā transformēšana radošā veidā,",
+                    "ITEM_3": "Uzvaru svinēšana. Svētku improvizēšanas metode – tilts uz bērna sirdi, dziļāku sarunu īstenošanai, bērna identitātes apstiprināšanai.",
+                    "ITEM_4": "Garīguma attīstīšana. Metodes sarunai ar bērniem par vērtībām, jēgu un iekšējo filozofiju."
+                }
+            },
+            "SECTION_4": {
+                "HEADING": "Katrs modulis iekļauj 5 video, 30 minūšu garumā, kurus dalībnieki tiek aicināti klausīties un skatīties 5 dienas pēc kārtas. Katrs video stāsta par metožu integratīvu kopumu, ko var izmantot komunikācijas veidošanai ar bērniem, dotās tēmas īstenošanai.",
+                "BODY": "Programmai tiek pievienots arī nosacījumu video – tas tiek pievienots programmas paketei, kur tiek sniegta instrukcija – kā pareizi lietot doto onlaina programmu.",
+                "BUTTON": "Pieteikties"
+            }
+        },
+        "BODY_3": {
+            "SECTION_1": {
+                "HEADING": "Profesionālās tālākizglītības programmu pastorālajā konsultēšanā",
+                "SUBHEADING": "Programmas misija:",
+                "BODY": "Attīstīt pastorālās konsultēšanas virzienu - kā profesionālu terapijas virzienu, kurš tiek īstenots atbilstoši starptautiskajām vadlīnijām nozarē"
+            },
+            "SECTION_2": {
+                "HEADING": "Lai specialists varētu veikt pstorāli terapeitisku darbību, viņam:",
+                "BODY_1": "Jāiegūst akadēmiskā izglītība psiholoģijā, pastorālajā konsultēšanā un/vai teoloģijā, iegūstot maģistra grādu.",
+                "BODY_2": "Jāiegūst profesionālā izglītība, kuras ietvaros notiek terapeitisko konsultēšanas kvalitāšu attīstīšana. Profesionālā izglītība, saskaņā ar ES psihoterapeitu asociācijas vadlīnijām ilgst 4 gadus, kuros tiek īstenota mācību programma, kas tiek dalīta 2 līmeņos:",
+                "LEVELS": {
+                    "LEVEL_1": "1. līmenis – bāzes līmenis, ",
+                    "LEVEL_2": "2. līmenis – profesionāla terapeita speciālista apmācība"
+                }
+            }
+        }
+    },
+    "EDUCATIONAL_INSTITUTES_METADATA": {
+        "TITLE": "Izglītības iestādes"
+    },
+    "EDUCATIONAL_INSTITUTES": {
+    },
+    "LIBRARY_METADATA": {
+        "TITLE": "Biblioteka"
+    },
+    "LIBRARY": {
+    }
+}

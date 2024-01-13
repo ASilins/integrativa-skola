@@ -1,0 +1,15 @@
+.footer {
+    background-color: var(--secondary-colour);
+    height: 9.4375rem;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 2.44rem;
+}
+
+.quickNav {
+    gap: 2rem;
+    display: flex;
+}
